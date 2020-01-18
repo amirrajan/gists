@@ -1,4 +1,4 @@
-- [Ruby is Lisp in disguise](https://gist.github.com/amirrajan/f64c811715cd19b7e9dc30eaf79eec85).
+- [Ruby is Lisp in disguise](https://gist.github.com/amirrajan/f64c811715cd19b7e9dc30eaf79eec85)
 - [Raycasting in DragonRuby](https://gist.github.com/amirrajan/9dcc5d3d2e62cfe4b301ee4b1d874c36)
 - [Mode7 in DragonRuby](https://gist.github.com/amirrajan/4b36d0f14f3a870f345d897e9217066a)
 - [Emac "hello world" init.el](https://gist.github.com/amirrajan/b6952aa9671c397cdf8931288487a5c3)
