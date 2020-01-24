@@ -1,5 +1,6 @@
 An Index of all my gists.
 
+- [Better OSql](https://gist.github.com/amirrajan/ba5b04b802db62f9de06c276fe5affa9)
 - [Ruby is Lisp in disguise](https://gist.github.com/amirrajan/f64c811715cd19b7e9dc30eaf79eec85)
 - [Raycasting in DragonRuby](https://gist.github.com/amirrajan/9dcc5d3d2e62cfe4b301ee4b1d874c36)
 - [Mode7 in DragonRuby](https://gist.github.com/amirrajan/4b36d0f14f3a870f345d897e9217066a)
