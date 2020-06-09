@@ -1,6 +1,6 @@
 # An Index of all my gists. #
 
-# Emacs #
+# Emacs, VIM, Terminal #
 
 - [init.el for .Net on Windows](https://gist.github.com/amirrajan/5991a34a2e096387926997f9388e827e)
 - [Emac "hello world" init.el](https://gist.github.com/amirrajan/b6952aa9671c397cdf8931288487a5c3)
@@ -11,6 +11,7 @@
 - [mintty pretty colors](https://gist.github.com/amirrajan/917230ba7f3761d80b186cac4e644954)
 - [A VIM tutorial I cooked up a long time ago](https://gist.github.com/amirrajan/78636b292c8107d7689aaf014472beab)
 - [Evolution of Battle Station](https://gist.github.com/amirrajan/926cb51ee49a661abdfa6656662c07ca)
+- [TMUX config](https://gist.github.com/amirrajan/a075445a93e2121aee162b2c84329581)
 
 # .Net #
 
