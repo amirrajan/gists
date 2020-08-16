@@ -12,6 +12,7 @@
 - [A VIM tutorial I cooked up a long time ago](https://gist.github.com/amirrajan/78636b292c8107d7689aaf014472beab)
 - [Evolution of Battle Station](https://gist.github.com/amirrajan/926cb51ee49a661abdfa6656662c07ca)
 - [TMUX config](https://gist.github.com/amirrajan/a075445a93e2121aee162b2c84329581)
+- [Hammerspoon Mode](https://gist.github.com/amirrajan/e2ec90b4727de0febcdf4c2684257d46)
 
 # .Net #
 
