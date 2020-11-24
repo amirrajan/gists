@@ -13,6 +13,7 @@
 - [Evolution of Battle Station](https://gist.github.com/amirrajan/926cb51ee49a661abdfa6656662c07ca)
 - [TMUX config](https://gist.github.com/amirrajan/a075445a93e2121aee162b2c84329581)
 - [Hammerspoon Mode](https://gist.github.com/amirrajan/e2ec90b4727de0febcdf4c2684257d46)
+- [Hammerspoon script for ctrl -> esc](https://gist.github.com/amirrajan/ace70cd22eeb1f0ff4c1ff3758ebb7d1)
 
 # .Net #
 
