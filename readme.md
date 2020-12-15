@@ -3,7 +3,7 @@
 # Emacs, VIM, Terminal #
 
 - [init.el for .Net on Windows](https://gist.github.com/amirrajan/5991a34a2e096387926997f9388e827e)
-- [Emac "hello world" init.el](https://gist.github.com/amirrajan/b6952aa9671c397cdf8931288487a5c3)
+- [Emacs "hello world" init.el](https://gist.github.com/amirrajan/b6952aa9671c397cdf8931288487a5c3)
 - [Emacs "hello world only VIM" init.el](https://gist.github.com/amirrajan/6371290a721220c6b553f18b8c77b715)
 - [How to execute a CLI/shell command in emacs](https://gist.github.com/amirrajan/df21424ee3b3e3de6e4a0b5bba602278)
 - [Emacs introspection capabilities explanation](https://gist.github.com/amirrajan/46aa41fa79401dd22fc36e55ccb40d41)
@@ -14,6 +14,7 @@
 - [TMUX config](https://gist.github.com/amirrajan/a075445a93e2121aee162b2c84329581)
 - [Hammerspoon Mode](https://gist.github.com/amirrajan/e2ec90b4727de0febcdf4c2684257d46)
 - [Hammerspoon script for ctrl -> esc](https://gist.github.com/amirrajan/ace70cd22eeb1f0ff4c1ff3758ebb7d1)
+- [Emacs "hello world" for DragonRuby on Windows](https://gist.github.com/amirrajan/c7c001638861a7f72067fe216097f964)
 
 # .Net #
 
