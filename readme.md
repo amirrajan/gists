@@ -50,6 +50,8 @@
 - [Cow Tic Tac Toe solved using Ruby](https://gist.github.com/amirrajan/17f82afaa37feec7f2bdc51ce2c34f14)
 - [Poor man's autobuild using PTY and Open3 (ruby)](https://gist.github.com/amirrajan/bfadde53081d40b015323f7885e27daa)
 - [Sample of IAP using RubyMotion](https://gist.github.com/amirrajan/e5a05301240f4998caee329b03376656)
+- [Trace a class's methods](https://gist.github.com/amirrajan/72539b22e411aa4abf07c5287ef56bfd)
+- [Trace a module's methods](https://gist.github.com/amirrajan/763241e3191d32b49eeaecc784fcfdf9)
 
 # DragonRuby - RubyMotion #
 
