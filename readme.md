@@ -19,6 +19,7 @@
 # .Net #
 
 - [Better OSql](https://gist.github.com/amirrajan/ba5b04b802db62f9de06c276fe5affa9)
+- [Better RunAs](https://gist.github.com/amirrajan/6ffa7879985d0c12acb475c101af3efe)
 - [Houses on Blocks Programming Problem](https://gist.github.com/amirrajan/941c17e3725e8cf6701a76f4030b9ce5)
 - [Dijkstra's algoritm Implemented in C#](https://gist.github.com/amirrajan/75fca4babfcbfadaf1f87581a34877b4)
 - ["hello world" performance test of C# runtimes](https://gist.github.com/amirrajan/675071bfef4aaca1398c13664623a33c)
