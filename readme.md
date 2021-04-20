@@ -84,6 +84,7 @@
 - [Fiddle - Pong written in DragonRuby](https://gist.github.com/amirrajan/08ae7c9800ff56895c5ea242e2a3317f)
 - [Fiddle - The game of Snake written in DragonRuby using only Emojis](https://gist.github.com/amirrajan/c9498e8fe7e947d4135792fa2d123de0)
 - [Fiddle - Roguelike Starting Point written in DragonRuby](https://gist.github.com/amirrajan/30be700d54d05e102f14653d7871bfa8)
+- [Simple vs Easy](https://gist.github.com/amirrajan/ea439a6e770f911be19d9b18038caf4d)
 
 # Misc
 
