@@ -30,6 +30,7 @@
 - [How to create an SSL Cert in C# for IISExpress](https://gist.github.com/amirrajan/4081896)
 - [VB Script to Attach to a process so you can debug it with visual studio](https://gist.github.com/amirrajan/1314280)
 - [Primefactors Kata in F#](https://gist.github.com/amirrajan/3da3b77e2fce98a9493cc2de7236322b)
+- [StringChallenge Kata in C#](https://gist.github.com/amirrajan/f953ffa8fe7ef495f2ae8eb3989abc2c)
 - [AutoHotkey Script to Double up Esc and Ctrl](https://gist.github.com/amirrajan/9fc6493d5d9e38daa79456c32e5fa92d)
 - [Poormans' File Watcher written in C#](https://gist.github.com/amirrajan/c4553adbc638db7dd6502de97835fb46)
 - [Remotely execute a powershell script](https://gist.github.com/amirrajan/cb4e822c8fb4cf4284dc4afc4958efb7)
