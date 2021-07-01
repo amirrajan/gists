@@ -87,6 +87,9 @@
 - [Fiddle - Roguelike Starting Point written in DragonRuby](https://gist.github.com/amirrajan/30be700d54d05e102f14653d7871bfa8)
 - [Simple vs Easy](https://gist.github.com/amirrajan/ea439a6e770f911be19d9b18038caf4d)
 
+# C #
+- [C11 structs](https://gist.github.com/amirrajan/9e0ce9e0f6a9286c34c1a876c2218d82)
+
 # Misc
 
 - [Great Presentations](https://gist.github.com/amirrajan/ac2229e74ec7a7595e625d913f98a890)
