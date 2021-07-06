@@ -87,6 +87,8 @@
 - [Fiddle - Roguelike Starting Point written in DragonRuby](https://gist.github.com/amirrajan/30be700d54d05e102f14653d7871bfa8)
 - [Simple vs Easy](https://gist.github.com/amirrajan/ea439a6e770f911be19d9b18038caf4d)
 
+# Scala # 
+- [Lenses and ScalaZ](https://gist.github.com/amirrajan/78148ab6f98a21b1d9b6)
 # C #
 - [C11 structs](https://gist.github.com/amirrajan/9e0ce9e0f6a9286c34c1a876c2218d82)
 
