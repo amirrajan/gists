@@ -86,6 +86,7 @@
 - [Fiddle - The game of Snake written in DragonRuby using only Emojis](https://gist.github.com/amirrajan/c9498e8fe7e947d4135792fa2d123de0)
 - [Fiddle - Roguelike Starting Point written in DragonRuby](https://gist.github.com/amirrajan/30be700d54d05e102f14653d7871bfa8)
 - [Simple vs Easy](https://gist.github.com/amirrajan/ea439a6e770f911be19d9b18038caf4d)
+- [Delta Time](https://medium.com/@tglaiel/how-to-make-your-game-run-at-60fps-24c61210fe75)
 
 # Scala # 
 - [Lenses and ScalaZ](https://gist.github.com/amirrajan/78148ab6f98a21b1d9b6)
