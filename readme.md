@@ -98,3 +98,4 @@
 - [Great Presentations](https://gist.github.com/amirrajan/ac2229e74ec7a7595e625d913f98a890)
 - [Guidlines for Dialog](https://gist.github.com/amirrajan/7f90ed32fc21cc0f924e541fdc986012)
 - [Put Tech In Charge Twitter Thread](https://twitter.com/swardley/status/1172413586192269312)
+- [Making Small Games](https://dev.to/abagames/making-small-games-which-is-fun-in-itself-19kh)
