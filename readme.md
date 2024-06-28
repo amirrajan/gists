@@ -38,6 +38,7 @@
 - ["Fold" written in C#](https://gist.github.com/amirrajan/c6754636d2eefcd62c4fd54aac3a177b)
 - [A Tour of Unique things from Languages I've Studied/Used](https://gist.github.com/amirrajan/b023426d2b8366fb4fe74c7e17618986)
 - [Shuffling Cards and why C# "sucks"](https://gist.github.com/amirrajan/07cda07e615afb2fa32a28232e9e4641)
+- [CLR Written in Lisp](https://web.archive.org/web/20130511214251/http://blogs.msdn.com:80/b/patrick_dussud/archive/2006/11/21/how-it-all-started-aka-the-birth-of-the-clr.aspx)
 
 # Ruby #
 
