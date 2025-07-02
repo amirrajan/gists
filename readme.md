@@ -89,6 +89,7 @@
 - [Simple vs Easy](https://gist.github.com/amirrajan/ea439a6e770f911be19d9b18038caf4d)
 - [Delta Time](https://medium.com/@tglaiel/how-to-make-your-game-run-at-60fps-24c61210fe75)
 - [Fucking Menus and Tutorials](https://www.youtube.com/watch?v=8FpigqfcvlM&ab_channel=Egoraptor)
+- [game design](https://www.youtube.com/watch?v=Rjdmi7628GM&list=PLgKCjZ2WsVLSmJwGC258l2HhWgf-P877B&ab_channel=MasahiroSakuraionCreatingGames)
 
 # Scala # 
 - [Lenses and ScalaZ](https://gist.github.com/amirrajan/78148ab6f98a21b1d9b6)
